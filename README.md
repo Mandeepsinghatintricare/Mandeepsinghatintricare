@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Nothing of now
 
 <p>
-  <img width=35% src="https://github-readme-stats.vercel.app/api?username=Mandeepsinghatintricare&show_icons=true&theme=radical" style="max-width: 100%;"/>
+  <img width=34% src="https://github-readme-stats.vercel.app/api?username=Mandeepsinghatintricare&show_icons=true&theme=radical" style="max-width: 100%;"/>
   <img width=28% src=https://github-readme-stats.vercel.app/api/top-langs/?username=Mandeepsinghatintricare&layout=compact&theme=radical style="max-width: 100%;" />
 </p>
 
